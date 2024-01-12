@@ -1,0 +1,88 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  /* background-image: url('https://t3.ftcdn.net/jpg/06/04/74/88/360_F_604748806_gQSyPrazhAocHefqrUtieGBKK22PS5QZ.jpg'); */
+  background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+}
+
+.form-control {
+  text-align: center;
+}
+
+nav {
+  margin-bottom: 180px;
+}
+
+.TH {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 100ch;
+  max-width: 500px;
+  margin-left: 470px;
+  box-shadow: 3px 6px 10px;
+  padding: 5px;
+
+}
+
+.lable {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#Input {
+  width: 350px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+button {
+  text-align: center;
+  margin-left: 300px;
+}
+
+.boxx {
+  text-align: center;
+}
+
+.py {
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.CPY {
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 10px
+}
+
+.boxx {
+  margin-top: 100px;
+}
+
+input {
+  outline: none;
+  box-shadow: 2px 3px 10px black;
+}
+
+.last {
+
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #333;
+
+  color: #fff;
+
+  padding: 10px
+}
